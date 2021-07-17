@@ -42,4 +42,9 @@ This is the Spring Boot Rest API step by Step for Beginners as well as for Exper
   "dob": "1987-07-17T07:48:24.725+00:00"
 }
 ------------------------------------------------------------------------------------------------------------------------
+  # Step 7 /*execute REST API with HTTP DELETE request accepting input as id and return void*/
+  added in UserResourceController_2 controller class
+  method name : deleteById
+  this is a HTTP DELETE request
+  url =http://localhost:2107/user/2
   
