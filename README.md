@@ -31,3 +31,15 @@ This is the Spring Boot Rest API step by Step for Beginners as well as for Exper
   method name : retrieveOneUser
   this is a HTTP get request
   url =http://localhost:2107/user/1
+
+# Step 6 /*execute REST API with HTTP POST request accepting input as USER BEAN*/
+  added in UserResourceController_2 controller class
+  method name : createUser
+  this is a HTTP POST request
+  url =http://localhost:2107/users
+  body: {
+  "name": "Tapas 2",
+  "dob": "1987-07-17T07:48:24.725+00:00"
+}
+------------------------------------------------------------------------------------------------------------------------
+  
