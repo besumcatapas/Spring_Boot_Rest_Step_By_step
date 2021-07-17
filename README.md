@@ -6,4 +6,7 @@ This is the Spring Boot Rest API step by Step for Beginners as well as for Exper
   this is a HTTP get request
   url = http://localhost:2107/helloworld
 
-# Step 2
+# Step 2 /*execute REST API with return type as Bean*/
+added in HelloWorldController_1 controller class
+  this is a HTTP get request
+  url =http://localhost:2107/helloworld-bean
